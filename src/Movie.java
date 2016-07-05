@@ -2,7 +2,7 @@
 public class Movie {
 	private String title;
 	private String category;
-	
+	private String actor;
 	public Movie (String title, String category){
 		this.title=title;
 		this.category=category;
